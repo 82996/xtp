@@ -1,0 +1,13 @@
+dns:
+  port: 5353
+  address: 101.6.6.6
+servers:
+  ct-nj:
+    port: 443
+    address: 180.97.104.45
+  ct-bj:
+    port: 443
+    address: 220.181.43.12
+  ct-gd:
+    port: 443
+    address: 14.215.177.73
